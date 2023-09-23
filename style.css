@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.own-all{
+    height: 700px;
+}
+.box{
+    height: 600px;
+    width: 80%;
+  
+}
+.head{
+    height: 162px;
+}
+.btns{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 8px;
+}
+.btns a{
+    text-decoration: none;
+}
